@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemsakr" alt="reemsakr" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Framework ,Angular**
+- 🌱 I’m currently learning **Spring , Spring Boot**
 
 - 📫 How to reach me **reemsakr060@gmail.com**
 
