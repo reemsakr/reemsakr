@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **reemsakr060@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h5g7r6_JC68V7AjTcvdu-41337isFZ9q/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/reem-sakr/details/featured/1715948455166/single-media-viewer/?profileId=ACoAAC_n3xIB-0RnkRLJshJ8Pc7-WsttxaJuaRE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
